@@ -6,7 +6,7 @@ A production-ready authentication system built with React, TypeScript, and Supab
 
 - **Secure Authentication**: Email/password authentication powered by Supabase
 - **Protected Routes**: Automatic redirect for unauthenticated users
-- **Session Management**: Persistent sessions with automatic token refresh
+- **Session Management**: Persistent sessions with automatic token refresh 
 - **Password Security**: Minimum 6-character passwords with secure hashing
 - **Row Level Security**: Database policies ensure users can only access their own data
 - **Modern UI**: Beautiful, responsive design with Tailwind CSS
@@ -51,9 +51,6 @@ Start the development server:
 ```bash
 npm run dev
 ```
-
-The app will be available at `http://localhost:5173`
-
 ### Build
 
 Create a production build:
